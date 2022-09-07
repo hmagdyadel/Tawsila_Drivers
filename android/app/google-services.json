@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130927202084",
+    "firebase_url": "https://tawsila-11a55-default-rtdb.firebaseio.com",
+    "project_id": "tawsila-11a55",
+    "storage_bucket": "tawsila-11a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130927202084:android:a7268e91c585dcb4ecedb1",
+        "android_client_info": {
+          "package_name": "h.magdy.tawsila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130927202084-sr27fd1mj7di1rk14mmd4ei3b6nekt70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobDK7z2Rvvj2gEFaxP3lgm8cpJT0kC4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130927202084-sr27fd1mj7di1rk14mmd4ei3b6nekt70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
